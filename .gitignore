@@ -1,0 +1,15 @@
+# 数据库文件
+wrong_questions.db
+wrong_questions.db-journal
+
+# 上传的图片
+uploads/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统文件
+.DS_Store
+Thumbs.db
